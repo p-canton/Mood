@@ -7,7 +7,10 @@ import PhilipsLogo from './images/PhilipsLogo.png'
 import Create from './images/Create.png';
 import Pdance from './images/Pdance.gif';
 import Iframe from 'react-iframe'
+import Pgreat from './images/Pgreat.gif';
 import Ptired from './images/Ptired.gif';
+import Pangry from './images/Pangry.gif';
+import Pquestion from './images/Pquestion.gif';
 
 
 class User1 extends Component {
@@ -34,12 +37,12 @@ class User1 extends Component {
             </Link>
           </div>
           <div className="GPcombine">
+            <img className="ProjectPic" src={Pdance} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
+            <img className="ProjectPic" src={Pgreat} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
             <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
-            <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
-            <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
-            <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
+            <img className="ProjectPic" src={Pangry} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
           </div><div className="GPcombine">
-            <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
+            <img className="ProjectPic" src={Pquestion} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
             <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
             <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
             <img className="ProjectPic" src={Ptired} style={{padding:'1em', height:'20vh', width:'20vh', borderRadius:'2em'}}/>
