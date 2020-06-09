@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5aeac074203f6ad7ccd63ee05b5d8c9a",
+    "revision": "d9fc232c8712d0ea4c9d48242ee928cf",
     "url": "/Mood.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mood.github.io/static/css/2.8d1e7c2e.chunk.css"
   },
   {
-    "revision": "ca5d1e04d1655837f8dc",
+    "revision": "f655e6c6c1c4f9da7933",
     "url": "/Mood.github.io/static/css/main.17bd361d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mood.github.io/static/js/2.8412b3ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca5d1e04d1655837f8dc",
-    "url": "/Mood.github.io/static/js/main.1931f234.chunk.js"
+    "revision": "f655e6c6c1c4f9da7933",
+    "url": "/Mood.github.io/static/js/main.105ed961.chunk.js"
   },
   {
     "revision": "387d446c2c45375659fc",
