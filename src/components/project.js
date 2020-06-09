@@ -18,12 +18,12 @@ class Project extends Component {
       <div className="MainFormat">
         <div className="GridBar HidePC">
           <div className="PaddingBar" style={{textAlign:'center'}}>
-            <Link className="LinkStyle HidePC" to="/">
+            <Link className="LinkStyle HidePC" to="/Mood.github.io/">
               <p className="IconStyle"><i class="fa fa-home" aria-hidden="true"></i></p>
             </Link>
           </div>
           <div className="PaddingBar" style={{textAlign:'center'}}>
-            <Link className="LinkStyle HidePC" to="/profile">
+            <Link className="LinkStyle HidePC" to="/Mood.github.io/profile">
               <p className="IconStyle"><i class="fa fa-user" aria-hidden="true"></i></p>
             </Link>
           </div>
@@ -45,9 +45,9 @@ class Project extends Component {
         </div>
         <div className="GridMain">
           <div className="HidePhone SettingsBar">
-            <Link className="LinkStyle" to="/">
+            <Link className="LinkStyle" to="/Mood.github.io/">
               <p className="ButtonStyle">Home</p></Link>
-            <Link className="LinkStyle" to="/profile">
+            <Link className="LinkStyle" to="/Mood.github.io/profile">
               <p className="ButtonStyle">Profile</p></Link>
             <Link className="LinkStyle" >
               <p className="ButtonStyle">Notifications</p></Link>
@@ -61,7 +61,7 @@ class Project extends Component {
             <Link className="LinkStyle" >
               <p className="ButtonStyle">Team mood</p></Link>
             <div className="TestBox">
-              <Link className="LinkStyle" to="/survey"><p className="TextBox">
+              <Link className="LinkStyle" to="/Mood.github.io/survey"><p className="TextBox">
                 <i class="fa fa-file-o" aria-hidden="true" style={{paddingRight: '0.5em'}}></i>Your Mood</p></Link>
             </div>
             <div className="TestBox"><p className="TextBox">
@@ -115,7 +115,7 @@ class Project extends Component {
             </div>
             <div style={{padding:'1em'}}>
               <div className="ProjectBox OverlayBox">
-                <Link className="LinkStyle" to="/user1"><img className="ProjectPic" src={Pdance}/>
+                <Link className="LinkStyle" to="/Mood.github.io/user1"><img className="ProjectPic" src={Pdance}/>
                   <p className="ButtonSelec">Pablo</p>
                   <div class="overlay">
                     <p><b>"I am Happy"</b></p>
@@ -139,7 +139,7 @@ class Project extends Component {
             </div>
             <div style={{padding:'1em'}}>
             <div className="ProjectBox OverlayBox">
-              <Link className="LinkStyle" to="/user1"><img className="ProjectPic" src={Pquestion}/>
+              <Link className="LinkStyle" to="/Mood.github.io/user1"><img className="ProjectPic" src={Pquestion}/>
                 <p className="ButtonSelec">Pablo</p>
                 <div class="overlay">
                   <p><b>"What ??"</b></p>
@@ -163,7 +163,7 @@ class Project extends Component {
             </div>
             <div style={{padding:'1em'}}>
             <div className="ProjectBox OverlayBox">
-              <Link className="LinkStyle" to="/user1"><img className="ProjectPic" src={Pgreat}/>
+              <Link className="LinkStyle" to="/Mood.github.io/user1"><img className="ProjectPic" src={Pgreat}/>
                 <p className="ButtonSelec">Pablo</p>
                 <div class="overlay">
                   <p><b>"Feel good"</b></p>
@@ -187,7 +187,7 @@ class Project extends Component {
             </div>
             <div style={{padding:'1em'}}>
             <div className="ProjectBox OverlayBox">
-              <Link className="LinkStyle" to="/user1"><img className="ProjectPic" src={Ptired}/>
+              <Link className="LinkStyle" to="/Mood.github.io/user1"><img className="ProjectPic" src={Ptired}/>
                 <p className="ButtonSelec">Pablo</p>
                 <div class="overlay">
                   <p><b>"1 min more"</b></p>
@@ -221,7 +221,7 @@ class Project extends Component {
             </div>
             <div style={{padding:'1em'}}>
             <div className="ProjectBox OverlayBox">
-              <Link className="LinkStyle" to="/user1"><img className="ProjectPic" src={Pangry}/>
+              <Link className="LinkStyle" to="/Mood.github.io/user1"><img className="ProjectPic" src={Pangry}/>
                 <p className="ButtonSelec">Pablo</p>
                 <div class="overlay">
                   <p><b>"Noooooooo"</b></p>

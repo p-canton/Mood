@@ -17,19 +17,19 @@ class User1 extends Component {
       <div className="MainFormat">
         <div className="GridBar">
           <div className="PaddingBar HidePC" style={{textAlign:'center'}}>
-            <Link className="LinkStyle HidePC" to="/project">
+            <Link className="LinkStyle HidePC" to="/Mood.github.io/project">
               <p className="IconStyle"><i class="fa fa-caret-left" aria-hidden="true"></i></p>
             </Link>
           </div>
           <div className="PaddingBar HidePC" style={{textAlign:'center'}}>
-            <Link className="LinkStyle HidePC" to="/project">
+            <Link className="LinkStyle HidePC" to="/Mood.github.io/project">
               <p className="IconStyle">Back</p>
             </Link>
           </div>
         </div>
         <div className="GridMain">
           <div className="GPcombine GPLeft">
-            <Link className="LinkStyle" to="/project">
+            <Link className="LinkStyle" to="/Mood.github.io/project">
               <p className="IconStyle"><i class="fa fa-caret-left" aria-hidden="true"> </i> Back</p>
             </Link>
           </div>

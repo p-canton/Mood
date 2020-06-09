@@ -23,12 +23,12 @@ class User1 extends Component {
       <div className="MainFormat">
         <div className="GridBar HidePC">
           <div className="PaddingBar" style={{textAlign:'center'}}>
-            <Link className="LinkStyle HidePC" to="/">
+            <Link className="LinkStyle HidePC" to="/Mood.github.io/">
               <p className="IconStyle"><i class="fa fa-home" aria-hidden="true"></i></p>
             </Link>
           </div>
           <div className="PaddingBar" style={{textAlign:'center'}}>
-            <Link className="LinkStyle HidePC" to="/profile">
+            <Link className="LinkStyle HidePC" to="/Mood.github.io/profile">
               <p className="IconStyle"><i class="fa fa-user" aria-hidden="true"></i></p>
             </Link>
           </div>
@@ -51,9 +51,9 @@ class User1 extends Component {
         <div className="GridMain">
           <div className="SettingsBar HidePhone">
 
-          <Link className="LinkStyle" to="/">
+          <Link className="LinkStyle" to="/Mood.github.io/">
             <p className="ButtonStyle">Home</p></Link>
-            <Link className="LinkStyle" to="/profile">
+            <Link className="LinkStyle" to="/Mood.github.io/profile">
               <p className="ButtonStyle">Profile</p></Link>
             <Link className="LinkStyle" >
               <p className="ButtonStyle">Notifications</p></Link>
@@ -62,15 +62,15 @@ class User1 extends Component {
             <Link className="LinkStyle" >
               <p className="ButtonStyle">Teammates</p></Link>
             <hr style={{width:'70%'}}/>
-            <Link className="LinkStyle" to="/">
+            <Link className="LinkStyle" to="/Mood.github.io/">
               <p className="ButtonStyle">Contact</p></Link>
-            <Link className="LinkStyle" to="/">
+            <Link className="LinkStyle" to="/Mood.github.io/">
               <p className="ButtonStyle">Survey</p></Link>
           </div>
           <div className="GridProjects">
             <div className="GPcombine GridTwo">
               <div className="GPLeft">
-              <Link className="LinkStyle" to="/project">
+              <Link className="LinkStyle" to="/Mood.github.io/project">
                 <p className="ButtonSelec"><b>Pablo Cantón</b></p>
               </Link>
               </div>
