@@ -13,11 +13,11 @@ const Main = () => (
   <>
   <ScrollToTop />
     <Switch>
-      <Route exact path="/" component={LandingPage}/>
-      <Route path="/project" component={Project} />
-      <Route path="/user1" component={User1} />
-      <Route path="/profile" component={Profile} />
-      <Route path="/survey" component={Survey} />
+      <Route exact path="/Mood/" component={LandingPage}/>
+      <Route path="/Mood/project" component={Project} />
+      <Route path="/Mood/user1" component={User1} />
+      <Route path="/Mood/profile" component={Profile} />
+      <Route path="/Mood/survey" component={Survey} />
     </Switch>
   </>
 )
