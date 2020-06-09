@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mood.github.io/precache-manifest.0e5b4cb0a4426b984b632042b022f469.js"
+  "/Mood.github.io/precache-manifest.9735f763cd4c2d9333040febd3be23a2.js"
 );
 
 self.addEventListener('message', (event) => {
