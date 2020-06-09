@@ -104,15 +104,6 @@ class Project extends Component {
                   <i class="fa fa-building" aria-hidden="true" style={{paddingRight: '0.5em'}}></i>At the office</p>
                 </div>
             </div>
-            <div className="GPcombine GridTwo">
-              <div className="GPLeft">
-              <Link className="LinkStyle" >
-                <p className="IconStyle"><b>Happy</b></p>
-              </Link>
-              </div>
-              <div className="GPRight">
-              </div>
-            </div>
             <div style={{padding:'1em'}}>
               <div className="ProjectBox OverlayBox">
                 <Link className="LinkStyle" to="/Mood.github.io/user1"><img className="ProjectPic" src={Pdance}/>
@@ -210,15 +201,6 @@ class Project extends Component {
             </div>
             </div>
 
-            <div className="GPcombine GridTwo">
-              <div className="GPLeft">
-              <Link className="LinkStyle" >
-                <p className="IconStyle"><b>Sad</b></p>
-              </Link>
-              </div>
-              <div className="GPRight">
-              </div>
-            </div>
             <div style={{padding:'1em'}}>
             <div className="ProjectBox OverlayBox">
               <Link className="LinkStyle" to="/Mood.github.io/user1"><img className="ProjectPic" src={Pangry}/>
